@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Font Awesome 5 Pro';
 	src: url(../../assets/fonts/fa-light-300.eot) format('embedded-opentype'),
-	url(../../assets/fonts/fa-light-300d41d.eot) format('embedded-opentype'),
+	url(../../assets/fonts/fa-light-300.eot) format('embedded-opentype'),
 	url(../../assets/fonts/fa-light-300.woff2) format('woff2'),
 	url(../../assets/fonts/fa-light-300.woff) format('woff'),
 	url(../../assets/fonts/fa-light-300.ttf) format('truetype'),
@@ -13,7 +13,7 @@
 @font-face {
 	font-family: 'Font Awesome 5 Pro';
 	src: url(../../assets/fonts/fa-regular-400.eot) format('embedded-opentype'),
-	url(../../assets/fonts/fa-regular-400d41d.eot) format('embedded-opentype'),
+	url(../../assets/fonts/fa-regular-400.eot) format('embedded-opentype'),
 	url(../../assets/fonts/fa-regular-400.woff2) format('woff2'),
 	url(../../assets/fonts/fa-regular-400.woff) format('woff'),
 	url(../../assets/fonts/fa-regular-400.ttf) format('truetype'),
@@ -25,7 +25,7 @@
 @font-face {
 	font-family: 'Font Awesome 5 Pro';
 	src: url(../../assets/fonts/fa-solid-900.eot) format('embedded-opentype'),
-	url(../../assets/fonts/fa-solid-900d41d.eot) format('embedded-opentype'),
+	url(../../assets/fonts/fa-solid-900.eot) format('embedded-opentype'),
 	url(../../assets/fonts/fa-solid-900.woff2) format('woff2'),
 	url(../../assets/fonts/fa-solid-900.woff) format('woff'),
 	url(../../assets/fonts/fa-solid-900.ttf) format('truetype'),
